@@ -23,5 +23,6 @@ public class Main {
         for (int i = 0; i < lastNameCount; i++) {
             System.out.print(lastName[i]);
         }
+
     }
 }
